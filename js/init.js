@@ -6,6 +6,8 @@
 
 // This is a comment:
 
+blah blah blah
+
 (function($) {
 
 	skel.init({
